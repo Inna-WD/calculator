@@ -91,7 +91,7 @@ function couponFunction() {
 
 }
 
-// adding listeners to all 6 bottins in the page  
+// adding listeners to all 6 bottons in the page  
 pantsMinusButton.addEventListener('click', pantsMinus);
 pantsPlusButton.addEventListener('click', pantsPlus);
 shirtMinusButton.addEventListener('click', shirtMinus);
